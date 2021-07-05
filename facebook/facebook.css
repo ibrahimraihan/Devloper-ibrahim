@@ -1,0 +1,421 @@
+body,h1,h2,h3,h4,h5,h6,p,a,span{
+    font-family: 'Rubik', sans-serif;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.text-cecter{
+    text-align: center;
+}
+.clear::after{
+    content: '';
+    clear: both;
+    display: block;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.d-flex{
+    display: flex;
+}
+
+.justify-between{
+    display: flex;
+    justify-content:;
+}
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+.align-item{
+    display: flex;
+    align-items: center;
+}
+.ml-10{
+    margin-left: 10px;
+}
+.mt-4{
+    margin-top: 10px;
+}
+/* header-logo-search left */
+.header-section{
+    background:#ffffff;
+}
+.ci-1{
+    color: #161414;
+    font-weight: 600;
+}
+.header-section{
+    background: #ffffff;
+}
+.header-logo-search{
+    width: 30%;
+    margin-left: -130px;
+}
+.header-primary{
+    width: 30%;
+    margin: auto;
+    
+}
+.header-profile{
+ position: relative;
+    right: -140px;
+    
+}
+.header-logo{
+    width: 60px;
+    margin-left: 20px;
+}
+.header-logo img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: 16px
+    
+}
+.header-search .form-control{
+    width: 220px;
+    height: 5px;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    background: #f0f2f5;
+}
+.header-primary ul{
+    list-style: none;
+    position: relative;
+    left: -100px;
+}
+.header-primary ul li{
+   display: inline-block;
+    padding: 0px 20px;
+    margin-top: 20px;
+   
+}
+.header-primary span{
+    font-size: 27px;
+    color: #65676b;
+    
+}
+.header-primary ul li a img{
+    width: 60px;
+}
+.header-menu{
+    width: 40%;
+}
+.logo-img img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.profile-menu .icon-1 .i-1{
+    color: #050505;
+    font-size: 20px;
+}
+
+}
+.profile-menu ul{}
+.profile-menu ul li{
+    display: inline-block;
+    padding: 0px 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    
+}
+.profile-menu ul li a{}
+.profile-menu ul li a span{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: #e4e6eb;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    
+}
+.header-primary .group i{
+   border: 2px solid;
+   width: 45px;
+   height: 45px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: -10px;
+}
+.btn-cola i{
+    color: #1877f2;
+}
+/* banner-sectio */
+.slaider-section{
+    background: #f0f2f5;
+}
+.mean-logo img{
+    max-width: 40px;
+    border-radius: 50%;
+}
+.mean-logo{
+    position: relative;
+    left: -109px;
+    top: 20px;
+}
+.covid-19{
+    position: relative;
+    left: -109px;
+    top: 20px;
+}
+.icon-section{
+    position: relative;
+    left: -104px;
+    top: 30px;
+}
+.icon-section span{
+    font-size: 20px;
+}
+.icon-section span i{
+    margin-bottom: 20px;
+}
+.icon-section h6{
+    margin-top: 5px;
+}
+.covid-19 img{
+    max-width: 100%;
+}
+.group-one i{
+    width: 30px;
+    height: 30px;
+    background: #1877f2;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    position: relative;
+    left: -3px;
+}
+.group-two i{
+    color: #22abde;
+}
+.group-three i{
+    color: red;
+}
+/* part 2 */
+.home-dive ul{
+    position: relative;
+    left: -40px;
+}
+.home-dive ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.home-dive ul li a{
+    color: #8a8d91;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+.home-dive{
+    border-bottom: 1px solid #8a8d91;
+    
+}
+.setting-div i{
+    font-size:20px;
+    width:50px;
+    height:40px;
+    background: #fff;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    color: #111;
+}
+.setting-div{
+position: relative;
+    top: -55px;
+    left: -30px
+}
+.stori-one{
+    width: ;
+}
+.stori-book{
+    width: 140px;
+    height: 700px;
+    margin-right: 20px;
+    position: relative;
+    
+    
+}
+.stori-book img{
+     border-radius: 10px 10px 0px 0px;
+  
+    
+}
+.story-body{
+    width: 140px;
+    height: 40px;
+    background: #fff;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+}
+.hide-box img{
+    width: 140px;
+    height: 180px;
+    border-radius: 10px 10px 10px 10px;
+}
+.mister-mukles{
+  
+}
+.round-dive img{
+    width: 50px;
+    height: 50px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    position: absolute;
+   margin-top: -150px;
+}
+.mister-mukles img{
+    height: 180px;
+      border-radius: 10px 10px 10px 10px;
+      position: relative;
+}
+.mister-dive img{
+    width: 50px;
+    height: 50px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -150px;
+}
+.story-icon-div{
+    width: 35px;
+    height: 35px;
+    border: 3px solid #fff;
+    background: #0d6efd;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -60px;
+    left: 50px;
+}   
+.story-icon-div i{
+    font-size: 25px;
+    color: #fff;
+    
+}
+/*tab bar*/
+.tab-content{
+    border-top: 1px solid;
+}
+.nav-item a{
+    font-size: 18px;
+    color: #606060;
+    font-weight: 600;
+    
+}
+
+/*nav-item*/
+.div-c-img{
+    width: 70px;
+
+}
+.div-c-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.div-coment input{
+    width: 300px;
+    padding: 8px ;
+    border-radius: 20px;
+    background: #f0f2f5;
+    color: #111;
+    
+}
+.div-card{
+   background-color: #fff;
+   padding-bottom: 80px;
+   box-sizing: content-box;
+   box-shadow: 4px 18px 20px 0px #ddd;
+   border-radius: 12px;
+   position: relative;
+    
+   top: -500px;
+}
+.div-card::before{
+    content: "";
+    top: 80px;
+    left: 0;
+    width: 500px;
+    height: 1px;
+    background: #60606060;
+    position: absolute;
+}
+.icon-mediya{
+    
+}
+.D-icon{
+width: 150px;
+color: #111;
+    position: relative;
+    top: -550px;
+}
+.icon-mediya ul li{
+    display: inline-block;
+   
+}
+.D-icon span i{
+    color: red;
+    width:23px;
+    font-size:px
+}
+.D-icon span{
+    width:px
+}
+.chat-active img{
+    width: 30px;
+    height: auto;
+    border-radius: 50%;
+    
+}
+.chat-active{
+    position: relative;
+}
+.chat-active::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 70px;
+    width: 10px;
+    border-radius: 50%;
+    height: 10px;
+    background-color: #31a24c;
+    
+}
+.icon-1{
+    position: relative;
+}
+.icon-1::before{
+    content: "10";
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 50%;
+    background: #f02849;
+}

@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*HEADER POINT*/
+.header{
+    background: #3b5998;
+    color: #ddd;
+    height: 75px;
+}
+h1{
+    position: relative;
+    top: 13px;
+
+
+}
+p{
+    font-size: 12px;
+}
+
+.header ul li{
+    display: inline-block;
+}
+.header-point{
+    line-height: 5px;
+    position: relative;
+    top: 8px;
+    line-height: 1px;
+}
+.header-left{
+    float: left;
+}
+.header-right{
+    float: right;
+    position: absolute;
+    left:235px;
+}
+.box1{
+    padding: 4px;
+    font-size: 11px;
+    
+
+}
+.box2{
+    padding: 2px;
+    font-size: 12px;
+}
+.login-battom a{
+    background: #4a6295;
+    width: 30px;
+    color: #ddd;
+    padding: 2px 2px 2px 2px;
+    text-decoration: none;
+    font-size: 13px;
+
+    border: 0.1px solid black;
+    position: relative;
+    top: 25px;
+    right: 50px;
+
+}
+/*BODY POINT*/
+.banner-point{
+    
+    background-image: url(./cover\ copy.jpg);
+    background-size: cover;
+    padding: 250px;
+    height: auto;
+    
+
+    
+}
+.banner-left{
+    float: left;
+    
+}
+.banner-left h5{
+    position: relative;
+    right: 110px;
+    bottom: 200px;
+    font-size: 17px;
+    color: #3b5998;
+}
+.banner-right{
+    color: #3b5998;
+    float: right;
+}
+.power{
+    position: relative;
+    right: 145px;
+    bottom: 205px;
+}
+.banner-right h4{
+    font-size: 20px;
+}
+.banner-right p{
+    font-size: 15px;
+    
+
+}
+.li-potison{
+    position: relative;
+    left: 10px;
+    
+}
+.li-potison ul li{
+    display: table;
+    padding: 10px;
+    
+}
+.li2-potison ul li{
+    display: table;
+    position: relative;
+    right: 30px;
+    bottom: 16px;
+}
+.li3-potison ul li{
+    display: table;
+    position: relative;
+   right: 27px;
+   bottom: 35px;
+}
+.li4-potison ul li{
+    display: table;
+    position: relative;
+   left: 40px;
+   bottom: 60px;
+}
+.li5-potison ul li{
+    display: table;
+    position: relative;
+   left: 20px;
+
+   bottom: 80px;
+}
+/*Frome*/
+.from{
+    position: absolute;
+    position: relative;
+    ;
+    
+    bottom: 383px;
+    left: 95px;
+}
+.from ul li{
+    
+    display: table;
+    padding: 8px;
+}
+.from ul li input{
+    width: 250px;
+}
+.from2{
+    position: absolute;
+    position: relative;
+    ;
+    
+    bottom: 386px;
+    left: 103px;
+}
+.from2 ul li{
+    display: table;
+
+}
+.from2 ul li input{
+    width: 250px;
+}
+.from3{
+    position: absolute;
+    position: relative;
+    ;
+    
+    bottom: 386px;
+    left: 103px
+
+}
+.from3 ul li{
+    display: table;
+}
+.from3 ul li input{
+    width: 250px;
+}
+.from4{
+    position: absolute;
+    position: relative;
+    ;
+    
+    bottom: 393px;
+    left: 103px
+
+}
+.from4 ul li{
+    display: table;
+}
+.from4 ul li input{
+    width: 250px;
+}
+.from5{
+    position: absolute;
+    position: relative;
+    ;
+    
+    bottom: 393px;
+    left: 103px
+
+}
+.from5 ul li{
+    display: table;
+}
+.from5 ul li input{
+    width: 250px;
+}
+.from6{
+    position: absolute;
+    position: relative;
+    
+    
+    bottom: 433px;
+    left: 176px
+
+}
+.from6 ul li{
+    display: table;
+}
+.from6 ul li input{
+    width: 250px;
+}
+.from7{
+    position: absolute;
+    position: relative;
+    
+    
+    bottom: 473px;
+    left: 232px
+
+}
+.from7 ul li{
+    display: table;
+}
+.from7 ul li input{
+    width: 250px;
+}
+.vondo{
+    position: relative;
+    right: 128px;
+    
+}
+.from7 ul li p{
+    font-size: 9px;
+
+}
+.bottom-calar{
+    
+}
+
+
